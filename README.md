@@ -74,12 +74,12 @@ O projeto segue uma organização simples e funcional, adequada para experimenta
 
 ## ⚙️ Funcionalidades Principais
 
-- 🎤 Captura de áudio do usuário  
-- 🧾 Transcrição automática com Whisper  
-- 🌍 Suporte a múltiplos idiomas  
-- 🤖 Integração com ChatGPT para respostas inteligentes  
-- 🔄 Pipeline completo de voz → texto → resposta  
-- ☁️ Execução via Google Colab (sem necessidade de setup local complexo)  
+- Captura de áudio do usuário  
+- Transcrição automática com Whisper  
+- Suporte a múltiplos idiomas  
+- Integração com ChatGPT para respostas inteligentes  
+- Pipeline completo de voz → texto → resposta  
+- Execução via Google Colab (sem necessidade de setup local complexo)  
 
 ---
 
