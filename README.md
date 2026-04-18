@@ -1,5 +1,6 @@
 # 🎙️ Assistente de Voz Multi-Idiomas com Whisper e ChatGPT
 
+
 ## 🚀 Status do Projeto
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
