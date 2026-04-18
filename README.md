@@ -1,7 +1,4 @@
 # 🎙️ Assistente de Voz Multi-Idiomas com Whisper e ChatGPT
-
-![Capa do Projeto](docs/banner.png)
-
 ---
 
 ## 🚀 Status do Projeto
